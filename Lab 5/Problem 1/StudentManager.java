@@ -17,7 +17,10 @@ public class StudentManager {
 
     
     
-    /*public static Student searchStudentById(Student[] students, int id) {
+    /*
+    An alternate method of writing this method.
+    
+    public static Student searchStudentById(Student[] students, int id) {
         for (Student s : students) {
             if (s.getId() == id) {
                 return s;
@@ -26,4 +29,5 @@ public class StudentManager {
         return null;
     }*/
 }
+
 
