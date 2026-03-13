@@ -19,7 +19,7 @@ public class CarDemo {
         
         Seller seller1 = new Seller();
         
-        System.out.println(seller1.calculateResaleValue(car1));
+        System.out.println("Resale Value: " + seller1.calculateResaleValue(car1));
         
         sc.close();
     }
